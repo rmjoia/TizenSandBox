@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+
+body {
+    margin: 0px auto;
+    background-color:#222;
+}
+
+.ui-page{
+	padding: 1em;
+}
+
+.text-center{
+	width: 100%;
+	text-align: center;
+}
+
+.ui-header h3{
+	margin: 0 auto;
+}
